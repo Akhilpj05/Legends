@@ -2,3 +2,6 @@ Rabbit
 parrot
 cat
 Dog
+elephant
+cow
+goat
