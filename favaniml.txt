@@ -5,3 +5,5 @@ Dog
 elephant
 cow
 goat
+dear
+camel
